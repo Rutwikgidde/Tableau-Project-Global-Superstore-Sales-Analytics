@@ -1,4 +1,5 @@
-Tableau Project: Global Superstore Sales Analytics
+##Tableau Project: Global Superstore Sales Analytics
+
 🧾 Project Overview
 This Tableau project showcases a business intelligence dashboard built on the Global Superstore dataset. The primary objective is to deliver deep insights into international sales performance, customer behavior, and product profitability across multiple regions and segments. The dashboard suite is divided into three key sections, each targeting specific business questions.
 
